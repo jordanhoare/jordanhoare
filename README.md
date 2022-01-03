@@ -1,6 +1,5 @@
 <h2 align="center">Jordan Hoare</h2>
 <h5 align="center">A junior data engineer / python developer.</h5>
-</br>
 <p align="center">
     <a href="https://www.linkedin.com/in/jordan-hoare/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

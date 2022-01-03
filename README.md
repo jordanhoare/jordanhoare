@@ -1,4 +1,4 @@
-<h1 align="center">Jordan Hoare</h1>
+<h2 align="center">Jordan Hoare</h2>
 <h5 align="center">A junior data engineer / python developer.</h5>
 </br>
 <p align="center">

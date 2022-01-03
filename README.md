@@ -1,5 +1,9 @@
 <h1 align="center">Jordan Hoare</h1>
+<<<<<<< HEAD
 <h5 align="center">A junior data engineer & python developer who enjoys the challenges of ML and has a tendency to be a lil' OCD with data cleaning...</h5>
+=======
+<h5 align="center">A junior data engineer & python developer who enjoys the challenges of ML and has a tendency to be a little OCD with data cleaning...</h5>
+>>>>>>> 0142ffbb9404654469777aeff1c2dc599048343a
 <p align="center">
     <a href="https://www.linkedin.com/in/jordan-hoare/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

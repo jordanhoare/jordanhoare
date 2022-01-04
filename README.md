@@ -1,4 +1,4 @@
-<h3 align="center">Jordan Hoare</h3>
+<h2 align="center">Jordan Hoare</h2>
 <h4 align="center">A junior python developer with some web code experience, who enjoys the challenges of ML & DevOps.</h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/jordan-hoare/">

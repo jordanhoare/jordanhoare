@@ -1,5 +1,5 @@
 <h1 align="center">Jordan Hoare</h1>
-<h5 align="center">A junior data engineer & python developer who enjoys the challenges of ML and has a tendency to be a lil' OCD with data cleaning... </h5>
+<h5 align="center">A junior python developer & data engineer who enjoys the challenges of ML and communicating findings to my peers. </h5>
 <p align="center">
     <a href="https://www.linkedin.com/in/jordan-hoare/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

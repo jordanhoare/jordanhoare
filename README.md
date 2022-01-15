@@ -1,4 +1,4 @@
-<h4 align="center">A junior python developer with some web code experience, who enjoys the challenges of ML & DevOps.</h4>
+<h4 align="center">I'm a passionate junior developer who enjoys the challenges of data engineering, machine learning and analytics. I specialise in Python but have visualisation experience using PowerBI (intermediate M-Query & DAX) and web code experience with a variety of JavaScript libraries.</h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/jordan-hoare/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,16 +9,12 @@
     <a href="mailto:jordanhoare0@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=100011746816986">
-        <img
-            src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
 </p>
 
 <br>
 
 <!--techy list-->
-<h4 align="center">Bits and pieces that I've used so far..</h4>
+<h4 align="center">Languages, software and frameworks I used thus far...</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"
